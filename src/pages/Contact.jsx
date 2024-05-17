@@ -1,5 +1,5 @@
-import Nav from "../components/Nav";
+const Contact = () => {
+  return <div>Contact</div>;
+};
 
-export default function Contact() {
-  return <></>;
-}
+export default Contact;

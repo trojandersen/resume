@@ -1,0 +1,20 @@
+.header {
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #c5fbff;
+  padding: 1rem;
+}
+
+.header__nav {
+  flex: 1;
+}
+
+.nav__list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  gap: 2rem;
+}

@@ -1,5 +1,5 @@
-import Nav from "../components/Nav";
+const Projects = () => {
+  return <div>Projects</div>;
+};
 
-export default function Projects() {
-  return <></>;
-}
+export default Projects;
